@@ -11,5 +11,6 @@ Lorsqu'un ennemi est frappé avec cet enchantement, il a une chance de donner Fo
 
 
 | Chances d'activation | Effet(s) |
+| -------------------- | -------- |
 | 3,20% à Niv.1 <br> 3,40% à Niv.2 <br> 3,60% à Niv.3 <br> 3,80% à Niv.4 <br> 4% à Niv.5 | Heal 0.25 coeurs à Niv.1 <br> Heal 0.5 coeurs à Niv.2 <br> Heal 0.75 coeurs et force passe au niveau 3 à Niv.3 <br> Heal 1 coeurs à Niv.4 <br> Heal 1.25 coeurs à Niv.5 |
 
